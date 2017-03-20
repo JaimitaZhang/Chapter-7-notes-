@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Reptile()
+comment1.params=numberLegs
+comment1.target=Reptile(int)
+comment2.params=
+comment2.target=int\ getLegs()
+comment3.params=
+comment3.target=java.lang.String\ move()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
